@@ -10,7 +10,7 @@
 
 ### Contact with me:
 
-[<img align="left" alt="WebSite" width="22px" src="https://raw.githubusercontent.com/satonin12/productList/5095c81cddfc47261b29cc2dcfe8803a406dfc73/public/basket.svg?token=AF6CDJSNJLQ2SDHIB4D6R5TBF4X32" />][website]
+[<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />][website]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
