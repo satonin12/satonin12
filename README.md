@@ -60,7 +60,7 @@
 
 ---
 
-### 🎨 Recent Projects
+### 🎨 Statistics of Projects
 
 <img align="left" alt="ReadmeStats" src="https://github-readme-stats.vercel.app/api?username=satonin12&show_icons=true&count_private=true&theme=buefy&include_all_commits=true&custom_title=vsatonin stats"/>
 
