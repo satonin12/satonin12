@@ -2,7 +2,7 @@
 
 ## I'am a Junior Frontend Developer, and student in Chelyabinsk State University (ChelSU)!
 -  📚  I' am currentrly studying and developing as a frontend developer
--   <img align="left" width="18px" height="18px" alt="React Icon" src="https://reactjsexample.com/assets/favicon.png"/>I want to become a layout guru and React
+-   <img align="left" width="18px" height="18px" alt="React Icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/>I want to become a layout guru and React
 -  📊 I experiment and actively try new projects and technologies
 -  🔥 I try to allow as few bugs as possible
 -  🎨I try to create my own design in Figma, Adobe HD and After Effects
