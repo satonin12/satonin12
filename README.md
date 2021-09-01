@@ -5,7 +5,7 @@
 -   <img width="18px" height="18px" alt="React Icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/> I want to become a layout guru and React
 -  📊 I experiment and actively try new projects and technologies
 -  🔥 I try to allow as few bugs as possible
--  🎨I try to create my own design in Figma, Adobe HD and After Effects
+-  🎨I try to create my own design in Figma, Adobe XD and After Effects
 
 ### Contact with me:
 
