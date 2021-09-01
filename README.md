@@ -1,5 +1,7 @@
 ### Hi there, I'am a Vladislav 👋
 
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=satonin12)
+
 ## I'am a Junior Frontend Developer, and student in Chelyabinsk State University (ChelSU)!
 -  📚  I' am currentrly studying and developing as a frontend developer
 -   <img width="18px" height="18px" alt="React Icon" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg"/> I want to become a layout guru and React
