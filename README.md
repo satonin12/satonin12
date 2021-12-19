@@ -16,11 +16,12 @@
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />][website]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlub.svg" />][gitlub]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="WebSite" width="22px" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh]
-[<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+<!-- [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn] -->
 
 <br/>
 
@@ -79,5 +80,6 @@
 [instagram]: https://www.instagram.com/vsatonin/
 [linkedin]: https://vk.com/x102am
 [github]: https://github.com/satonin12
+[gitlub]: https://gitlab.com/vlad.satonin74
 [hh]: https://chelyabinsk.hh.ru/resume/e87f0057ff034ef8b50039ed1f476e626f3562
 [vk]: https://vk.com/x102am
