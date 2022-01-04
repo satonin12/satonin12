@@ -11,6 +11,10 @@
 -  🔥 I try to allow as few bugs as possible
 -  🎨I try to create my own design in Figma, Adobe XD and After Effects
 
+## Stats and certificate, Badges on HackerRank
+
+[<img align="left" alt="WebSite" width="22px" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />][HackerRank]
+
 ### Contact with me:
 
 [<img align="left" alt="WebSite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />][website]
