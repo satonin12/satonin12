@@ -11,9 +11,12 @@
 -  🔥 I try to allow as few bugs as possible
 -  🎨I try to create my own design in Figma, Adobe XD and After Effects
 
-## Stats and certificate, Badges on HackerRank
+### Stats and certificate, Badges on HackerRank
 
-[<img align="left" alt="WebSite" width="22px" src="https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67" />][HackerRank]
+[<img align="left" alt="WebSite" width="100px" src="https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67" />][HackerRank]
+
+<br /> 
+<br />
 
 ### Contact with me:
 
