@@ -13,7 +13,7 @@
 
 ## Stats and certificate, Badges on HackerRank
 
-[<img align="left" alt="WebSite" width="22px" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />][HackerRank]
+[<img align="left" alt="WebSite" width="22px" src="https://camo.githubusercontent.com/4563c40252b62c1298c069a6987467a076e157fdb4ad4e629d97ed1bb036a637/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a55475431526839784c7777334a6549445231463052512e706e67" />][HackerRank]
 
 ### Contact with me:
 
@@ -87,3 +87,4 @@
 [gitlub]: https://gitlab.com/vlad.satonin74
 [hh]: https://chelyabinsk.hh.ru/resume/e87f0057ff034ef8b50039ed1f476e626f3562
 [vk]: https://vk.com/x102am
+[HackerRank]: https://www.hackerrank.com/vlad_satonin74
